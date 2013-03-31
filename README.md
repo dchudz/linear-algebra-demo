@@ -1,6 +1,8 @@
 linear-algebra-demo
 ===================
 
+http://www.learnfromdata.com/media/d3/linear.html
+
 To-do:
 
 * add a "stamp" that's there by default
